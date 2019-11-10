@@ -36,6 +36,7 @@ Following can be configured by changing local.env:
 
 Run the migrations
 ```
+python manage.py makemigrations
 python manage.py migrate
 ```
 Load the datapoints
