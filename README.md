@@ -50,7 +50,7 @@ Start the server
 ```
 python manage.py runserver 8005
 ```
-This will start the webserver on http://127.0.0.1:8005/.
+This will start the webserver on http://127.0.0.1:8005/customers/  .
 ## Documentation
 The API endpoints are
 
