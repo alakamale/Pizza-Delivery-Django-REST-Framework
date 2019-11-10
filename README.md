@@ -20,13 +20,13 @@ Clone this git repository
 ```
 git clone https://github.com/alakamale/Pizza-Delivery-Django-REST-Framework.git
 ```
-Install the requirements
-```
-pip install -r requirements.txt
-```
 Go to the project folder
 ```
 cd pizzahut
+```
+Install the requirements
+```
+pip install -r requirements.txt
 ```
 ## Configuration
 Following can be configured by changing local.env:
