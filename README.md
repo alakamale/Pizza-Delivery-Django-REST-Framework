@@ -33,7 +33,6 @@ Following can be configured by changing local.env:
 >- POSTGRES_DB : database name
 >- POSTGRES_USER : database user 
 >- POSTGRES_PASSWORD : database password
->- POSTGRES_HOST : host for database
 
 Run the migrations
 ```
