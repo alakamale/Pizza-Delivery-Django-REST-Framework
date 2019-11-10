@@ -49,9 +49,10 @@ The API endpoints are:
 
 | Endpoint   | Description |
 |------------|-----------|
-| /order/list/\<customer name\>/ | to list the orders from a customer |
-| /order/create/ | to create a new order |
-| /modify/\<pizza id\>/ | to update and delete an order |
+| /pizzas/ | to list all the flavours|
+| /customers/ | to list all customers |
+| /customers/<customer_id>/orders/ | to update and delete an order |
+| /customers/<customer_id>/orders/<order_id> | to update and delete an order |
 
 
 ## Testing the endpoint
