@@ -58,12 +58,7 @@ The API endpoints are
 |------------|-----------|
 | /pizzas/ | to list all the flavours|
 | /customers/ | to list all customers |
-| /customers/<customer_id>/orders/ | to update and delete an order |
+| /customers/<customer_id>/orders/ | List all orders of customer |
 | /customers/<customer_id>/orders/<order_id> | to update and delete an order |
 
-
-## Testing the endpoint
-To run the tests
-```
-python manage.py test
-```
+To explore API endpoint documentaion [click here](https://documenter.getpostman.com/view/9384645/SW18wuw6?version=latest)
