@@ -1,0 +1,26 @@
+[
+  {
+    "model": "orders.Customer",
+    "pk": 1,
+    "fields": {
+      "first_name": "Ashish",
+      "last_name": "Kumar"
+    }
+  },
+  {
+    "model": "orders.Customer",
+    "pk": 2,
+    "fields": {
+      "first_name": "Amit",
+      "last_name": "Singh"
+    }
+  },
+  {
+    "model": "orders.Customer",
+    "pk": 3,
+    "fields": {
+      "first_name": "Mohan",
+      "last_name": "Patil"
+    }
+  }
+]
